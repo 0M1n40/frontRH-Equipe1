@@ -1,15 +1,13 @@
-import './App.css'
-import SobreNos from './pages/sobrenos/SobreNos'
-import './utils/fonts/fonte.css';
-
+import Home from './pages/home/Home';
 
 function App() {
-
   return (
     <>
-    <SobreNos/>
-      </>
-  )
+
+      <Home />
+
+    </>
+  );
 }
 
-export default App
+export default App;
