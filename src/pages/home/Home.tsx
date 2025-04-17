@@ -1,9 +1,11 @@
+
+import './Home.css';
 import ProjetoIntegradorSlide from '../../utils/img/ProjetoIntegradorSlide.png';
 
 function Home() {
     return (
         <>
-            <div className="bg-rose-200 flex justify-center items-center min-h-screen px-0"> 
+            <div className="home-background flex justify-center items-center min-h-screen px-0"> 
                 <div className="w-[90vw] flex justify-center">
                     <img
                         src={ProjetoIntegradorSlide}
@@ -17,4 +19,5 @@ function Home() {
 }
 
 export default Home;
+
 
