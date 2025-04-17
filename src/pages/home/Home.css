@@ -1,0 +1,25 @@
+.home-background {
+    background-color: #FABDBD;
+  }
+
+.botao-nova-postagem {
+    background-color: #1E1E1E;
+    color: #FFF5EC;
+    height: 40px;              /* define uma altura fixa (achatada) */
+    padding: 0 40px;           /* sem padding vertical, só horizontal */
+    border-radius: 9999px;     /* super oval */
+    font-weight: 600;
+    font-size: 1rem;
+    cursor: pointer;
+    border: 2px solid #1E1E1E;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+    
+  .botao-nova-postagem:hover {
+    background-color: #FFF5EC;
+    color: #1E1E1E;
+  }
+  
