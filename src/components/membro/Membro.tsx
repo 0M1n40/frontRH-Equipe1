@@ -1,12 +1,13 @@
 import MembroDoTime from "../../models/Membro";
 
 type MembroProps = {
-  membro: MembroDoTime;
+  membro: MembroDoTime,
+  onClick: () => void
 };
 
-function Membro({ membro }: MembroProps) {
+function Membro({ membro, onClick  }: MembroProps) {
   return (
-    <div className="w-32 text-center">
+    <div className="w-32 text-center cursor-pointer" onClick={onClick}>
       <img
         src={membro.photo}
         alt={membro.name}
