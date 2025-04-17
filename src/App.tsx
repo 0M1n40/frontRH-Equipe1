@@ -5,8 +5,6 @@ import Home from './pages/home/Home'
 import './App.css'
 
 
-import Home from './pages/home/Home';
-
 
 
 function App() {
@@ -26,13 +24,11 @@ function App() {
           
         </BrowserRouter>
 
-      <Home />
 
     </>
   )
 }
 
-export default App
 
 export default App;
 
