@@ -1,9 +1,11 @@
-# 👩‍💼 RhConnect - Gestão de Pessoas Inteligente 💼
+# 👥 RH Connect - Otimize a gestão do seu time! 🚀
 
-Este projeto é um sistema de cadastro de funcionários para um departamento de Recursos Humanos (RH).  
-Ele permite o gerenciamento dos dados dos colaboradores de uma empresa, incluindo **cadastro, atualização, consulta e remoção de registros**.
+O **RH Connect** é um sistema completo desenvolvido para transformar a rotina do departamento de Recursos Humanos.  
+Oferece uma solução **prática, eficiente e intuitiva** para o controle de colaboradores, permitindo o cadastro, atualização, consulta e remoção de registros de funcionários com facilidade.
 
-O **RhConnect** é a interface de um sistema moderno de RH desenvolvido pela **Equipe 1**. A proposta é facilitar o controle de colaboradores, oferecendo uma plataforma intuitiva, eficiente e segura para empresas organizarem suas equipes com mais praticidade.
+Com o RH Connect, sua empresa ganha agilidade nos processos, minimiza erros e tem sempre as informações organizadas para tomar decisões estratégicas com mais confiança.
+
+---
 
 ## 👥 Equipe do Projeto
 
@@ -16,3 +18,7 @@ O **RhConnect** é a interface de um sistema moderno de RH desenvolvido pela **E
 | Caroliny Gonçalves    | [@carolgonc](https://github.com/carolgonc)   |
 | Mina Monteiro         | [@0M1n40](https://github.com/0M1n40)         |
 | Desiree Ferreira      | [@desireeferreira](https://github.com/desireeferreira) |
+
+## 🔗 Repositório
+
+[https://github.com/0M1n40/frontRH-Equipe1](https://github.com/0M1n40/frontRH-Equipe1)
