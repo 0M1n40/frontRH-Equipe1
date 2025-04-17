@@ -1,0 +1,37 @@
+[
+    {
+    "name": "Ana",
+    "description": "n sei o que n sei o que lá",
+    "photo": "/img/ANA.jpeg"
+    },
+    {
+    "name": "Beatriz",
+    "description": "n sei o que n sei o que lá",
+    "photo": "/img/bia.png"
+    },
+    {
+    "name": "Carol",
+    "description": "n sei o que n sei o que lá",
+    "photo": "/img/carol.jpg"
+    },
+    {
+    "name": "Desiree",
+    "description": "n sei o que n sei o que lá",
+    "photo": "/img/desiree.jpeg"
+    },
+    {
+    "name": "Laisa",
+    "description": "n sei o que n sei o que lá",
+    "photo": "/img/Foto_Laisa.jpg"
+    },
+    {
+    "name": "Laura",
+    "description": "n sei o que n sei o que lá",
+    "photo": "/img/laura.jpg"
+    },
+    {
+    "name": "Mina",
+    "description": "n sei o que n sei o que lá",
+    "photo": "/img/mina1.png"
+    }   
+]
