@@ -5,6 +5,7 @@ import Home from './pages/home/Home'
 import './App.css'
 import SobreNos from './pages/sobrenos/SobreNos'
 import Produtos from './pages/produtos/Produtos'
+import Footer from './components/footer/Footer'
 
 
 
@@ -23,7 +24,7 @@ function App() {
               <Route path="/produtos" element={<Produtos />} />
             </Routes>
           </div>
-          
+         <Footer/>
         </BrowserRouter>
 
 
