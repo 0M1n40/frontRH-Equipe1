@@ -1,4 +1,5 @@
 import { FacebookLogo, InstagramLogo, LinkedinLogo } from '@phosphor-icons/react'
+import { Link } from 'react-router-dom'
 
 function Footer() {
     let data = new Date().getFullYear()
@@ -23,12 +24,12 @@ function Footer() {
                     </div>
 
                     <div className="mt-4 md:mt-0">
-                        <a 
-                            href="/contato" 
+                        <Link 
+                            to="/sobrenos"
                             className="text-lg md:text-xl font-bold hover:text-rose-500 transition-colors whitespace-nowrap"
                         >
                             Contato
-                        </a>
+                        </Link>
                     </div>
                 </div>
             </div>
