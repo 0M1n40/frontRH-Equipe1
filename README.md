@@ -1,54 +1,18 @@
-# React + TypeScript + Vite
+# 👩‍💼 RhConnect - Gestão de Pessoas Inteligente 💼
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto é um sistema de cadastro de funcionários para um departamento de Recursos Humanos (RH).  
+Ele permite o gerenciamento dos dados dos colaboradores de uma empresa, incluindo **cadastro, atualização, consulta e remoção de registros**.
 
-Currently, two official plugins are available:
+O **RhConnect** é a interface de um sistema moderno de RH desenvolvido pela **Equipe 1**. A proposta é facilitar o controle de colaboradores, oferecendo uma plataforma intuitiva, eficiente e segura para empresas organizarem suas equipes com mais praticidade.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 👥 Equipe do Projeto
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
-
-```js
-export default tseslint.config({
-  extends: [
-    // Remove ...tseslint.configs.recommended and replace with this
-    ...tseslint.configs.recommendedTypeChecked,
-    // Alternatively, use this for stricter rules
-    ...tseslint.configs.strictTypeChecked,
-    // Optionally, add this for stylistic rules
-    ...tseslint.configs.stylisticTypeChecked,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
-
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
-
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default tseslint.config({
-  plugins: {
-    // Add the react-x and react-dom plugins
-    'react-x': reactX,
-    'react-dom': reactDom,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended typescript rules
-    ...reactX.configs['recommended-typescript'].rules,
-    ...reactDom.configs.recommended.rules,
-  },
-})
-```
+| Nome                  | GitHub                                      |
+|-----------------------|---------------------------------------------|
+| Beatriz Correa        | [@correabeas](https://github.com/correabeas) |
+| Laísa F. Silva        | [@LA1SA0](https://github.com/LA1SA0)         |
+| Laura Azevedo         | [@laura-azevedo](https://github.com/laura-azevedo) |
+| Ana Kely              | [@anakelys](https://github.com/anakelys)     |
+| Caroliny Gonçalves    | [@carolgonc](https://github.com/carolgonc)   |
+| Mina Monteiro         | [@0M1n40](https://github.com/0M1n40)         |
+| Desiree Ferreira      | [@desireeferreira](https://github.com/desireeferreira) |
