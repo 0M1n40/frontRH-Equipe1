@@ -1,11 +1,12 @@
 import { FacebookLogo, InstagramLogo, LinkedinLogo } from '@phosphor-icons/react'
 import { Link } from 'react-router-dom'
+import './Footer.css'
 
 function Footer() {
     let data = new Date().getFullYear()
 
     return (
-        <div className="w-full bg-rose-200 text-zinc-600 py-6">
+        <div className="w-full footer-background  text-zinc-600 py-6">
             <div className="container mx-auto px-4">
                 <div className="flex flex-col md:flex-row justify-between items-start md:items-start">
 

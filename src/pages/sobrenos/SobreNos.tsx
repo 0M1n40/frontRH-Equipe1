@@ -8,6 +8,8 @@ type MembroProps = {
   name: string;
   photo: string;
   description: string;
+  github: string;
+  linkedin: string;
 };
 
 function SobreNos() {
@@ -27,12 +29,12 @@ function SobreNos() {
   };
 
   return (
-    <div className="bg-custom-color min-h-screen w-full p-0">
+    <div className="bg-custom-color min-h-screen w-full p-6 ">
       <h1 className="text-3xl font-bold text-center py-6">Sobre nós</h1>
-      <p className="text-center mb-6">Equipe RHConnect</p>
+      <p className="text-center mb-06 text-2xl font-medium">Equipe RHConnect</p>
 
-      <div className="flex flex-col items-center justify-center min-h-[60vh]">
-        <div className="flex justify-center gap-8 flex-wrap">
+      <div className=" flex flex-col items-center justify-center min-h-[60vh]">
+        <div className="flex justify-center gap-9 flex-wrap">
           {membrosCima.map((member, index) => (
             <Membro key={index} membro={member} onClick={() => openModal(member)} />
           ))}

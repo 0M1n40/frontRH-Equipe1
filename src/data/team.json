@@ -1,37 +1,51 @@
 [
     {
     "name": "Ana",
-    "description": "n sei o que n sei o que lá",
-    "photo": "/img/ANA.jpeg"
+    "description": "Me chamo Ana Kely de Souza, sou natural do Rio de Janeiro e formada como bacharel em Física pela UERJ. Atualmente venho me capacitando como desenvolvedora Java. Minha motivação vem do desafio constante de aprender novas tecnologias e desenvolver soluções.",
+    "photo": "/img/ANA.jpeg",
+    "github": "https://github.com/anakelys",
+    "linkedin": "https://www.linkedin.com/in/anaksouza/"
     },
     {
     "name": "Beatriz",
-    "description": "n sei o que n sei o que lá",
-    "photo": "/img/bia.png"
+    "description": "Profissional em transição de carreira, atualmente em formação como desenvolvedora full stack, com foco em tecnologias como HTML, CSS, Java, JavaScript, SQL, React e Python. Minha trajetória combina competências técnicas em desenvolvimento web com uma sólida experiência em pesquisa e educação.",
+    "photo": "/img/bia.png",
+    "github": "https://github.com/correabeas",
+    "linkedin": "https://www.linkedin.com/in/correabeatriz/"
     },
     {
     "name": "Carol",
-    "description": "n sei o que n sei o que lá",
-    "photo": "/img/carol.jpg"
+    "description": "Olá, meu nome é Caroliny Gonçalves, estou em formação pela Generation Brasil - Java FullStack, com foco em Java, Spring, React, HTML, CSS, JavaScript e SQL. Tenho facilidade em aprender novas tecnologias, gosto de trabalhar em equipe e estou sempre em busca de soluções criativas e eficientes.",
+    "photo": "/img/carol.jpg",
+    "github": "https://github.com/carolgonc",
+    "linkedin": "https://www.linkedin.com/in/caroliny-gon%C3%A7alves/"
     },
     {
     "name": "Desiree",
-    "description": "n sei o que n sei o que lá",
-    "photo": "/img/desiree.jpeg"
+    "description": "Oi, sou a Desiree! Tenho 31 anos e sou uma apaixonada por tudo que envolve tecnologia. Encontrei minha verdadeira paixão em Front-end e atualmente estou me aventurando no mundo do Desenvolvimento FullStack com Java. Sou daquele tipo que adora um bom desafio e está sempre em busca de aprender algo novo.",
+    "photo": "/img/desiree.jpeg",
+    "github": "https://github.com/desireeferreira",
+    "linkedin": "https://www.linkedin.com/in/desireeferreira6/"
     },
     {
     "name": "Laisa",
-    "description": "n sei o que n sei o que lá",
-    "photo": "/img/Foto_Laisa.jpg"
+    "description": "Olá! Me chamo é Laísa Ferreira da Silva e sou estudante de Análise e Desenvolvimento de Sistemas na Unigranrio. Atualmente, estou me aprofundando em desenvolvimento Full Stack Java e estou sempre em busca de novos desafios e aprendizados.",
+    "photo": "/img/Foto_Laisa.jpg",
+    "github": "https://github.com/LA1SA0",
+    "linkedin": "https://www.linkedin.com/in/la%C3%ADsa-ferreira-da-silva-/"
     },
     {
     "name": "Laura",
-    "description": "n sei o que n sei o que lá",
-    "photo": "/img/laura.jpg"
+    "description": "Profissional com experiência de 2 anos em desenvolvimento full stack de sistemas e aplicações web (Single Page Applications) com Angular, Vue.js, Javascript e Typescript, além de 3 anos de experiência com Python e Sistemas de Informações Geográficas.",
+    "photo": "/img/laura.jpg",
+    "github": "https://github.com/laura-azevedo",
+    "linkedin": "https://www.linkedin.com/in/azevedolaura/"
     },
     {
     "name": "Mina",
-    "description": "n sei o que n sei o que lá",
-    "photo": "/img/mina1.png"
+    "description": "Estudante de Ciência da Computação no CEFET/RJ e Marketing no IBMR. Formada como Desenvolvedora Java Fullstack, com foco em Frontend e experiência em Backend",
+    "photo": "/img/mina1.png",
+    "github": "https://github.com/0M1n40",
+    "linkedin": "https://www.linkedin.com/in/mina-monteiro/"
     }   
 ]
